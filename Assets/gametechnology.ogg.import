@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/gametechnology.ogg-215aabeba893ba4aab02e6657507f4ad.oggstr"
+
+[deps]
+
+source_file="res://Assets/gametechnology.ogg"
+dest_files=[ "res://.import/gametechnology.ogg-215aabeba893ba4aab02e6657507f4ad.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
